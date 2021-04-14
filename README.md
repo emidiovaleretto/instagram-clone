@@ -8,5 +8,5 @@ This is a project whose idea is to rebuild the Instagram login page, using the m
 
 ## Final Project Screenshot
 
-<img src="../instagram-clone/img/screenshot.png" alt="final project screenshot">
+<img src="../instagram-clone/assets/img/screenshot.png" alt="final project screenshot">
 
