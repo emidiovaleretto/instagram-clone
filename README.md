@@ -6,5 +6,7 @@ by Emidio Valeretto
 
 This is a project whose idea is to rebuild the Instagram login page, using the main concepts learned from HTML5 and CSS3. 
 
+## Final Project Screenshot
 
+<img src="../instagram-clone/img/screenshot.png" alt="final project screenshot">
 
