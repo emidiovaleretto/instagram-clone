@@ -10,7 +10,8 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background: linear-gradient(45deg, #FFDC80, #FCAF45, #F77737, #F56040,
+     #FD1D1D, #E1306C, #C13584, #833AB4, #5851DB, #405DE6);
     margin: 0;
     padding: 0;
     display: flex;
@@ -54,6 +55,8 @@ body {
     width: 100%;
     padding: 1.5rem 0;
     border: 1px solid lightgray;
+    box-shadow: -2px -2px 5px #F5F5F5;
+
 }
 
 .group-1:nth-child(1) {
@@ -70,6 +73,8 @@ body {
     margin: 1rem 0;
     padding: 2rem 0;
     border: 1px solid lightgray;
+    box-shadow: -2px -2px 5px #F5F5F5;
+
 }
 
 .instagram-logo {
@@ -121,7 +126,7 @@ body {
     justify-content: center;
     width: 100%;
     padding: 1rem 0;
-    color: #000;
+    color: #F5F5F5;
 }
 
 .download {
